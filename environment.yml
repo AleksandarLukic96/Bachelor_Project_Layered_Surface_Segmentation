@@ -1,0 +1,23 @@
+name: env_lss
+
+channels:
+  - defaults
+
+dependencies:
+  - python
+  - jupyter
+  - matplotlib
+  - numpy
+  - scipy
+  - scikit-image
+  - pip
+  - pip:
+    - gradio
+    - ipycanvas
+    - ipywidgets
+    - nibabel
+    - opencv-python
+    - pillow
+    - pytest
+    - slgbuilder
+    
