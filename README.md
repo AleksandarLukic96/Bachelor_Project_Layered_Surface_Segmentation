@@ -1,0 +1,2 @@
+# Bachelor_Project_Layered_Surface_Segmentation
+Bachelor Project in Software Technology at Danish Techincal University
