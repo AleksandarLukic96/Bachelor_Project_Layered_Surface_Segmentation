@@ -1,10 +1,10 @@
-name: env_lss
+name: envlss
 
 channels:
   - defaults
 
 dependencies:
-  - python
+  - python ==3.9
   - jupyter
   - matplotlib
   - numpy
